@@ -1,6 +1,6 @@
-/*** Place your styles below ***/ 
+/*** Place your styles below ***/
 
 h2, h3 {
-    background: rgb(123,135,198);
-    background: linear-gradient(90deg, rgba(123,135,198,0.8) 0%, rgba(123,135,198,0) 100%);
-    }
+    background: rgb(247, 202, 136);
+    background: linear-gradient(90deg, rgba(247, 202, 136, 1) 0%, rgba(247, 202, 136, 0) 100%);
+}
